@@ -1,1 +1,0 @@
-# mengurutkan-3-bilangan-acak-menggunakan-bahasa-pemograman-c-
